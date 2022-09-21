@@ -51,7 +51,7 @@ res.send("Datos recibidos")
 
 })
 
-//lanzar la aplicación
+//lanzar la aplicación node index.js
 app.listen(8081 ,()=>{
 console.log("Servidor en línea")
 
